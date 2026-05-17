@@ -87,3 +87,6 @@ Comprehensive Dashboard Analysis and Business Insights
 Profitability is being affected by substantial operational losses from specific products.
 
 •	Improving cost efficiency and margin growth will strengthen long-term sustainability.
+
+#### The Interactive Dashboard to this analysis has been added in the link below for your review
+https://github.com/kingalphie/Engineering-Firm-Revenue-Performance-Metrics/blob/main/REVENUE%20PERFORMANCE%20METRICS.png
